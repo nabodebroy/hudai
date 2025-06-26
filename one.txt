@@ -1,1 +1,3 @@
 this is one.txt file
+aro kichu add korlam
+conflict test korbo
